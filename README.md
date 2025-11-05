@@ -15,10 +15,11 @@ Inoltre, potranno accedere ad una sezione dedicata alla verifica della disponibi
 Verrà sviluppata anche l’area amministrativa in modo tale che i vari amministratori con privilegi specifici possano aggiornare i contenuti.
 
 Aspetto tecnico e implementativo:
+
+L’intera piattaforma è stata realizzata utilizzando SQL, PHP, AJAX e DataTable, garantendo una struttura robusta, scalabile e dinamica:
 <ul>
-<li></li>L’intera piattaforma è stata realizzata utilizzando SQL, PHP, AJAX e DataTable, garantendo una struttura robusta, scalabile e dinamica:
-<li>SQL per la gestione del database relazionale, contenente informazioni sugli utenti, le prenotazioni, i turni e i referti.
-<li>PHP come linguaggio server-side per la logica applicativa e l’interazione con il database.
-<li>AJAX per consentire l’aggiornamento asincrono dei contenuti, migliorando l’esperienza utente senza ricaricare l’intera pagina.
-<li>DataTable per la creazione di tabelle interattive e filtrabili, utili nella gestione dei dati relativi ai turni, alle prenotazioni e ai referti clinici.
-<ul>
+<li>SQL per la gestione del database relazionale, contenente informazioni sugli utenti, le prenotazioni, i turni e i referti.</li>
+<li>PHP come linguaggio server-side per la logica applicativa e l’interazione con il database.</li>
+<li>AJAX per consentire l’aggiornamento asincrono dei contenuti, migliorando l’esperienza utente senza ricaricare l’intera pagina.</li>
+<li>DataTable per la creazione di tabelle interattive e filtrabili, utili nella gestione dei dati relativi ai turni, alle prenotazioni e ai referti clinici.</li>
+</ul>
