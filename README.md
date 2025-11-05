@@ -1,4 +1,4 @@
-Piattaforma per la gestione dei turni in un ospedale e per la prenotazione da parte dei pazienti.
+Progetto per ipotetica piattaforma per la gestione dei turni in un ospedale e per la prenotazione da parte dei pazienti.
 
 Contesto generale:<br /> 
 HealthHub S.r.l. è un’azienda che collabora con l’ospedale Papardo di Messina e si occupa di gestire il sito web del poliambulatorio, semplificando e informatizzando le sue varie funzioni.<br /> 
@@ -13,3 +13,12 @@ Una volta all’interno della pagina i pazienti potranno gestire digitalmente le
 Per gli operatori sanitari invece, dopo aver effettuato l’accesso, saranno disponibili più tabelle contenenti informazioni relative al loro reparto come turni di lavoro, con la possibilità di confermare la loro presenza in servizio e avere accesso alle informazioni dei loro pazienti, tra cui il referto medico.<br />
 Inoltre, potranno accedere ad una sezione dedicata alla verifica della disponibilità dei farmaci e delle attrezzature presenti nel loro ambulatorio.
 Verrà sviluppata anche l’area amministrativa in modo tale che i vari amministratori con privilegi specifici possano aggiornare i contenuti.
+
+Aspetto tecnico e implementativo:<br>
+<ul>
+<li></li>L’intera piattaforma è stata realizzata utilizzando SQL, PHP, AJAX e DataTable, garantendo una struttura robusta, scalabile e dinamica:
+<li>SQL per la gestione del database relazionale, contenente informazioni sugli utenti, le prenotazioni, i turni e i referti.
+<li>PHP come linguaggio server-side per la logica applicativa e l’interazione con il database.
+<li>AJAX per consentire l’aggiornamento asincrono dei contenuti, migliorando l’esperienza utente senza ricaricare l’intera pagina.
+<li>DataTable per la creazione di tabelle interattive e filtrabili, utili nella gestione dei dati relativi ai turni, alle prenotazioni e ai referti clinici.
+<ul>
