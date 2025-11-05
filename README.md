@@ -3,9 +3,9 @@ Progetto per ipotetica piattaforma per la gestione dei turni in un ospedale e pe
 Contesto generale:<br /> 
 HealthHub S.r.l. è un’azienda che collabora con l’ospedale Papardo di Messina e si occupa di gestire il sito web del poliambulatorio, semplificando e informatizzando le sue varie funzioni.<br /> 
 Il sito consente agli amministratori, ai pazienti e agli operatori sanitari di:<br />
--Amministratori: hanno accesso completo a tutte le funzioni del sito e possono modificarne e gestirne i valori; la loro presenza viene garantita dall’azienda.<br /> 
--Pazienti: Possono gestire le proprie prenotazioni scegliendo: giorno, orario, reparto e medico in base alle disponibilità.<br /> 
--Operatori sanitari: Possono accedere ai turni di servizio sia propri che dei colleghi, visualizzare la lista dei pazienti prenotati e quelli già visitati in passato, consultare e archiviare i referti clinici dei pazienti e tenere traccia della disponibilità dei farmaci e delle attrezzature necessarie in ogni ambulatorio.
+<li>Amministratori: hanno accesso completo a tutte le funzioni del sito e possono modificarne e gestirne i valori; la loro presenza viene garantita dall’azienda.<br /> 
+<li>Pazienti: Possono gestire le proprie prenotazioni scegliendo: giorno, orario, reparto e medico in base alle disponibilità.<br /> 
+<li>Operatori sanitari: Possono accedere ai turni di servizio sia propri che dei colleghi, visualizzare la lista dei pazienti prenotati e quelli già visitati in passato, consultare e archiviare i referti clinici dei pazienti e tenere traccia della disponibilità dei farmaci e delle attrezzature necessarie in ogni ambulatorio.
 
 Idea progettuale:<br /> 
 L’idea progettuale prevede lo sviluppo e gestione di un sistema informatico che possa garantire all’utente una piattaforma, tramite interfaccia web, in cui all’interno sia disponibile una schermata di registrazione e di accesso, assegnato mediante dei form, per i pazienti, operatori sanitari e per l’amministratore.<br />
