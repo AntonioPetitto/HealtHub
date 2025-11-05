@@ -1,4 +1,4 @@
-Progetto per ipotetica piattaforma per la gestione dei turni in un ospedale e per la prenotazione da parte dei pazienti.
+*Progetto per ipotetica piattaforma per la gestione dei turni in un ospedale e per la prenotazione da parte dei pazienti*
 
 **Contesto generale**:<br /> 
 HealthHub S.r.l. è un’azienda che collabora con l’ospedale Papardo di Messina e si occupa di gestire il sito web del poliambulatorio, semplificando e informatizzando le sue varie funzioni.<br /> 
