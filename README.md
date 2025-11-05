@@ -14,7 +14,7 @@ Per gli operatori sanitari invece, dopo aver effettuato l’accesso, saranno dis
 Inoltre, potranno accedere ad una sezione dedicata alla verifica della disponibilità dei farmaci e delle attrezzature presenti nel loro ambulatorio.
 Verrà sviluppata anche l’area amministrativa in modo tale che i vari amministratori con privilegi specifici possano aggiornare i contenuti.
 
-**Aspetto tecnico e implementativo**:
+**Aspetto tecnico e implementativo**:<br/>
 L’intera piattaforma è stata realizzata utilizzando SQL, PHP, AJAX e DataTable, garantendo una struttura robusta, scalabile e dinamica:
 <li>SQL per la gestione del database relazionale, contenente informazioni sugli utenti, le prenotazioni, i turni e i referti.</li>
 <li>PHP come linguaggio server-side per la logica applicativa e l’interazione con il database.</li>
